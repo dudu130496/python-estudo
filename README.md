@@ -1,2 +1,2 @@
-# python-estudo
+# python estudo
  meu primeiro repositorio com estudos que eu fiz e aprendi, por enquanto...
